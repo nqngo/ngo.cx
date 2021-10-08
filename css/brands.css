@@ -83,6 +83,14 @@ button:hover,
 .button.button-default:focus {
   filter: brightness(90%) }
 
+/* HTML 5 */
+.button.button-html5 {
+  color: #FFFFFF;
+  background-color: #0092bf }
+.button.button-html5:hover,
+.button.button-html5:focus {
+    filter: brightness(90%) }
+
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
