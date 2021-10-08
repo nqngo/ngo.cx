@@ -1,4 +1,8 @@
-# 🔗 LittleLink
+# ngo.cx
+
+Codebase for [ngo.cx](https://ngo.cx) link directory using `LittleLink`. For more information, see the original README below.
+
+## 🔗 LittleLink
 
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
